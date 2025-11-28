@@ -1,3 +1,10 @@
+## Contributeurs
+
+- Julien Esnault 
+- Clément Suire
+- Galaad Filatre
+- Sofiane Fares
+
 # Flight Aggregator
 
 The goal of the api is to get every flight to a destination and sort it by : 
